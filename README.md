@@ -1,8 +1,8 @@
 # lp-cadwtatto
 
-- Landing Page que está sendo desenvolvida para um estúdio de tatuagem.
+- Landing Page being developed for a tattoo studio.
 
-## Tecnologias utilizadas.
+## Technologies used.
 
 - JavaScript
 - HTML / CSS
