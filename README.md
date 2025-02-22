@@ -1,10 +1,10 @@
-# lp-cadwtatto
+# Sanidade-world
 
-- Landing Page being developed for a tattoo studio.
+- Landing Page being developed for a Sanidade World.
 
 ## Technologies used.
 
-- JavaScript
-- HTML / CSS
-- React
+- TypeScript
+- HTML / SCSS
+- Angular
 
