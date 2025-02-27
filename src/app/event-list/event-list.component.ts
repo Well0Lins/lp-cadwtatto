@@ -1,10 +1,11 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { link } from 'fs';
+import { CardComponent } from "../../shared/componentes/card/card.component";
 
 @Component({
   selector: 'app-event-list',
-  imports: [CommonModule],
+  imports: [CommonModule, CardComponent],
   templateUrl: './event-list.component.html',
   styleUrl: './event-list.component.scss'
 })

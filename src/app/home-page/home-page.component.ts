@@ -1,9 +1,8 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { EventListComponent } from "../event-list/event-list.component";
-import { FooterComponent } from "../../shared/footer/footer.component";
-import { BannerComponent } from "../banner/banner.component";
-import { NavbarComponent } from "../../shared/navbar/navbar.component";
+import { FooterComponent } from "../../shared/componentes/footer/footer.component";
+import { NavbarComponent } from "../../shared/componentes/navbar/navbar.component";
 
 @Component({
   selector: 'app-home-page',
@@ -11,7 +10,6 @@ import { NavbarComponent } from "../../shared/navbar/navbar.component";
     CommonModule,
     EventListComponent,
     FooterComponent,
-    BannerComponent,
     NavbarComponent
 ],
   templateUrl: './home-page.component.html',
